@@ -2,15 +2,76 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: Visual-D-Auth
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: July, 2022 &mdash; Present
+  url: "https://beta-visualdauth.vercel.app"
+  description: The NPM package for your web dev project's decentralised graphical password authentication. Visual-D-Auth is a NPM package that allows you to use your wallet to authenticate your users in your projects. It uses the crypto wallet you are using to sign a message and send it to the VisualDAuth contract.
+  <li>Tech Stack - ReactJS, Typescript, TailwindCSS, Solidity, Remix, Web3.js .</li>
+  <li>Github Link - <a href="https://github.com/rdshinde/Visual-D-Auth-test.git">https://github.com/rdshinde/Visual-D-Auth-test.git</a></li>
+  </ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Swadeshi - The Ecomm App
+  role: Primary Developer
+  duration: May, 2022 &mdash; Present
+  url: "http://swadeshi-ecomm-store.vercel.app"
+  description: This fully responsive e-commerce web application has all the necessary features and front-end authentication. The typescript, restful APIs and react hooks are used to integrate the NodeJS backend.
+  <ul>
+  <li>Tech Stack - ReactJS, Typescript, NodeJS, ExpressJS, MongoDB and vanilla CSS.</li>
+  <li>Github Link - <a href="https://github.com/rdshinde/swadeshi-ecomm-store.git">https://github.com/rdshinde/swadeshi-ecomm-store.git</a></li>
+  </ul>
+
+
+- project: SayIt - The Social Media App
+  role: Primary Developer
+  duration: April, 2022 &mdash; Present
+  url: "https://sayit-social.vercel.app"
+  description: It is a free social media app with features like post management, profile, and comment management. The redux-toolkit state management library is used for integration with Mockbee's backend.
+  <ul>
+  <li>Tech Stack - ReactJs, Redux, CSS Grids, Mockbee and vanilla CSS.</li>
+  <li>Github Link - <a href="https://github.com/rdshinde/SayIt.git">https://github.com/rdshinde/SayIt.git</a></li>
+  </ul>
+
+- project: NotAid - The Modern Note-Taking App
+  role: Primary Developer
+  duration: March, 2022 &mdash; Present
+  url: "https://notaid.vercel.app"
+  description: Fully Responsive note-taking web app with a rich text editor and other multiple useful features. The react context and reducer hook combination is used for integrating the Mockbee back-end.
+  <ul>
+  <li>Tech Stack -  ReactJS, vanilla CSS, Mockbee</li>
+  <li>Github Link - <a href="https://github.com/rdshinde/NotAid.git">https://github.com/rdshinde/NotAid.git</a></li>
+  </ul>
+
+
+- project: Bermuda - The CSS Component Library
+  role: Primary Developer
+  duration: Feb, 2022 &mdash; Present
+  url: " https://bermuda-css.netlify.app"
+  description: Bermuda CSS gears up you with a huge set of pre-defined CSS classes and UI components. The classes and components can be used in any project with the help of CDN links.
+  <ul>
+  <li>Tech Stack - HTML, vanilla CSS, Javascript.</li>
+  <li>Github Link - <a href="https://github.com/rdshinde/Bermuda.git">https://github.com/rdshinde/Bermuda.git</a></li>
+  </ul>
+
+
+- project: Firstever Blogs - Personalized Blogging app
+  role: Primary Developer
+  duration: July, 2021 &mdash; Present
+  url: "https://shinderd.pythonanywhere.com/"
+  description: It is a personalized blogging app with multiple features like auth, rich text, like, comment, read aloud and contact form.
+  <ul>
+  <li>Tech Stack - Django, SQLite, Bootstrap, HTML.</li>
+  <li>Github Link - <a href="https://github.com/rdshinde/personalized-blogging-app.git">https://github.com/rdshinde/personalized-blogging-app.git</a></li>
+  </ul>
+
+
+- project: Predict0 - Stroke Prediction App Using ML
+  role: Primary Developer
+  duration: May, 2021 &mdash; Present
+  url: " https://predict0.pythonanywhere.com"
+  description: This is the stroke prediction app using different health as well as habits data of a person using ML with 87% of accuracy.
+  <ul>
+  <li>Tech Stack - Django, sci-kit learn, HTML, CSS, JavaScript.</li>
+  <li>Github Link - <a href="https://github.com/rdshinde/predicto.git">https://github.com/rdshinde/predicto.git</a></li>
+  </ul>
