@@ -1,12 +1,20 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Technical Skills
+  description: Programming Languages -  Javascript, Typescript, C++, Pyhton, Java, Solidity.
+  Frontend Skills -  ReactJS, Redux, CSS Grids, HTML, vanilla CSS, TailwindCSS, Bootstrap
+  Backend Skills -  NodeJS, ExpressJS, MongoDB, Django, SQLite, MySQL.
+  Miscellineous Skills -  Remix, Web3.js, sci-kit learn, Git, GitHub, Heroku, Netlify, Firebase, AWS, Agile methodology, REST APIs, OOP concepts
+  
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Communications Skills
+  description: Fluent in English, Hindi, and Marathi.
+  Strong written and verbal communication skills.
+  Experience with client communication and feedback.
+  Ability to explain technical concepts to non-technical stakeholders.
+    
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# - skill: Digital content development and creation
+#   description: Copy writing, graphic design, web design, front-end web development, print design
