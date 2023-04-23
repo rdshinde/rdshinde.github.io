@@ -14,7 +14,7 @@
   role: Primary Developer
   duration: May, 2022 &mdash; Present
   url: "http://swadeshi-ecomm-store.vercel.app"
-  description: This fully responsive e-commerce web application has all the necessary features and front-end authentication. The typescript, restful APIs and react hooks are used to integrate the NodeJS backend. Tech Stack - ReactJS, Typescript, NodeJS, ExpressJS, MongoDB and vanilla CSS. Github Link - <a href="https://github.com/rdshinde/swadeshi-ecomm-store.git">https://github.com/rdshinde/swadeshi-ecomm-store.git</a>
+  description: <ul><li>This fully responsive e-commerce web application has all the necessary features and front-end authentication.</li><li> The typescript, restful APIs and react hooks are used to integrate the NodeJS backend.</li><li> Tech Stack - ReactJS, Typescript, NodeJS, ExpressJS, MongoDB and vanilla CSS.</li><li> Github Link - <a href="https://github.com/rdshinde/swadeshi-ecomm-store.git">https://github.com/rdshinde/swadeshi-ecomm-store.git</a></li></ul>
   
 
 
@@ -22,14 +22,14 @@
   role: Primary Developer
   duration: April, 2022 &mdash; Present
   url: "https://sayit-social.vercel.app"
-  description: It is a free social media app with features like post management, profile, and comment management. The redux-toolkit state management library is used for integration with Mockbee's backend. Tech Stack - ReactJs, Redux, CSS Grids, Mockbee and vanilla CSS. Github Link - <a href="https://github.com/rdshinde/SayIt.git">https://github.com/rdshinde/SayIt.git</a>
+  description: <ul><li>It is a free social media app with features like post management, profile, and comment management.</li><li> The redux-toolkit state management library is used for integration with Mockbee's backend.</li><li> Tech Stack - ReactJs, Redux, CSS Grids, Mockbee and vanilla CSS.</li><li> Github Link - <a href="https://github.com/rdshinde/SayIt.git">https://github.com/rdshinde/SayIt.git</a></li></ul>
   
 
 - project: NotAid - The Modern Note-Taking App
   role: Primary Developer
   duration: March, 2022 &mdash; Present
   url: "https://notaid.vercel.app"
-  description: Fully Responsive note-taking web app with a rich text editor and other multiple useful features. The react context and reducer hook combination is used for integrating the Mockbee back-end. Tech Stack -  ReactJS, vanilla CSS, Mockbee. Github Link - <a href="https://github.com/rdshinde/NotAid.git">https://github.com/rdshinde/NotAid.git</a>
+  description: <ul><li>Fully Responsive note-taking web app with a rich text editor and other multiple useful features.</li><li> The react context and reducer hook combination is used for integrating the Mockbee back-end.</li><li> Tech Stack -  ReactJS, vanilla CSS, Mockbee.</li><li> Github Link - <a href="https://github.com/rdshinde/NotAid.git">https://github.com/rdshinde/NotAid.git</a></li></ul>
   
 
 
@@ -37,15 +37,13 @@
   role: Primary Developer
   duration: Feb, 2022 &mdash; Present
   url: " https://bermuda-css.netlify.app"
-  description: Bermuda CSS gears up you with a huge set of pre-defined CSS classes and UI components. The classes and components can be used in any project with the help of CDN links. Tech Stack - HTML, vanilla CSS, Javascript. Github Link - <a href="https://github.com/rdshinde/Bermuda.git">https://github.com/rdshinde/Bermuda.git</a>
-  
-
+  description: <ul><li>Bermuda CSS gears up you with a huge set of pre-defined CSS classes and UI components.</li><li> The classes and components can be used in any project with the help of CDN links.</li><li> Tech Stack - HTML, vanilla CSS, Javascript.</li><li> Github Link - <a href="https://github.com/rdshinde/Bermuda.git">https://github.com/rdshinde/Bermuda.git</a></li></ul>
 
 - project: Firstever Blogs - Personalized Blogging app
   role: Primary Developer
   duration: July, 2021 &mdash; Present
   url: "https://shinderd.pythonanywhere.com/"
-  description: It is a personalized blogging app with multiple features like auth, rich text, like, comment, read aloud and contact form. Tech Stack - Django, SQLite, Bootstrap, HTML. Github Link - <a href="https://github.com/rdshinde/personalized-blogging-app.git">https://github.com/rdshinde/personalized-blogging-app.git</a>
+  description: <ul><li>It is a personalized blogging app with multiple features like auth, rich text, like, comment, read aloud and contact form.</li><li> Tech Stack - Django, SQLite, Bootstrap, HTML.</li><li> Github Link - <a href="https://github.com/rdshinde/personalized-blogging-app.git">https://github.com/rdshinde/personalized-blogging-app.git</a></li></ul>
   
 
 
@@ -53,5 +51,5 @@
   role: Primary Developer
   duration: May, 2021 &mdash; Present
   url: " https://predict0.pythonanywhere.com"
-  description: This is the stroke prediction app using different health as well as habits data of a person using ML with 87% of accuracy. Tech Stack - Django, sci-kit learn, HTML, CSS, JavaScript. Github Link - <a href="https://github.com/rdshinde/predicto.git">https://github.com/rdshinde/predicto.git</a>
+  description: <ul><li>This is the stroke prediction app using different health as well as habits data of a person using ML with 87% of accuracy.</li><li> Tech Stack - Django, sci-kit learn, HTML, CSS, JavaScript.</li><li> Github Link - <a href="https://github.com/rdshinde/predicto.git">https://github.com/rdshinde/predicto.git</a></li></ul>
   
