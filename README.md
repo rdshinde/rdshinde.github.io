@@ -14,8 +14,6 @@ A resume of Rishikesh Shinde.
 - **Name:** Rishikesh Dnyandev Shinde
 - **Title:** Web Enthusiast
 - **Contact email:** rdshinde2000@gmail.com
-- **Contact mobile:** +91 9175411145
-- **Contact address:** Shirur, Pune, Maharashtra, India
 - **Looking for work:** Yes
 
 ## Resume Sections
