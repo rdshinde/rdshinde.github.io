@@ -6,7 +6,7 @@
   role: Founder & Primary Developer
   duration: July, 2022 &mdash; Present
   url: "https://beta-visualdauth.vercel.app"
-  description: The NPM package for your web dev project's decentralised graphical password authentication. Visual-D-Auth is a NPM package that allows you to use your wallet to authenticate your users in your projects. It uses the crypto wallet you are using to sign a message and send it to the VisualDAuth contract. Tech Stack - ReactJS, Typescript, TailwindCSS, Solidity, Remix, Web3.js . Github Link - <a href="https://github.com/rdshinde/Visual-D-Auth-test.git">https://github.com/rdshinde/Visual-D-Auth-test.git</a>
+  description: <ul><li>The NPM package for your web dev project's decentralised graphical password authentication.</li> <li>Visual-D-Auth is a NPM package that allows you to use your wallet to authenticate your users in your projects.</li><li> It uses the crypto wallet you are using to sign a message and send it to the VisualDAuth contract.</li><li> Tech Stack - ReactJS, Typescript, TailwindCSS, Solidity, Remix, Web3.js .</li><li> Github Link - <a href="https://github.com/rdshinde/Visual-D-Auth-test.git">https://github.com/rdshinde/Visual-D-Auth-test.git</a></li></ul>
   
 
 # Springfield Community Outreach Group
