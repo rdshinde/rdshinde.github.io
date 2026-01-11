@@ -1,6 +1,6 @@
 # Site settings
 title: "Rishikesh Shinde | Resume"
-description: "A resume of Rishikesh Dnyandev Shinde. Who is a highly motivated final-year computer engineering student with front-end development experience using ReactJS and NextJS. Detail-oriented and committed to producing clean, efficient code. Fast learner, passionate about staying up-to-date with industry trends. Enthusiastic team player with a strong work ethic and dedication to excellence."
+description: "A resume of Rishikesh Dnyandev Shinde. Who is a Frontend Engineer with 2+ years of experience building performant, accessible, and SEO-friendly web applications using React.js, TypeScript, and SCSS."
 
 # Build settings
 markdown: kramdown
@@ -17,14 +17,13 @@ resume_title:                   "Web Enthusiast | System Engineer @TCS | CE'23"
 resume_contact_email:           "rdshinde2000@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+91 9175411145"
+resume_contact_telephone:       "+91 917541xxxx"
 resume_contact_address:         "Shirur, Pune, Maharashtra, India"
 
-resume_header_contact_info:     "Shirur, Pune, Maharashtra, India • +91 9175411145 • rdshinde2000@gmail.com"
+resume_header_contact_info:     "Shirur, Pune, Maharashtra, India • +91 917541xxxx • rdshinde2000@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a <strong>System Engineer</strong> with experience in building scalable applications and delivering innovative solutions. At <strong>Tata Consultancy Services</strong>, I developed <strong>25+ REST APIs</strong>, focusing on performance and reliability. A <strong>2023 Computer Engineering graduate</strong> with a CGPA of <strong>8.95</strong>, I have also worked on projects like a decentralized authentication system and a responsive e-commerce platform. I am passionate about creating <strong>efficient</strong> and <strong>user-friendly</strong> solutions.</p>"
-
+resume_header_intro: "<p>I am a <strong>Frontend Engineer</strong> with <strong>2+ years of experience</strong> building <strong>performant</strong>, <strong>accessible</strong>, and <strong>SEO-friendly</strong> web applications using <strong>React.js</strong>, <strong>TypeScript</strong>, and <strong>SCSS</strong>. I specialize in developing <strong>reusable UI components</strong>, optimizing performance through <strong>lazy loading</strong> and <strong>code splitting</strong>, and collaborating closely with <strong>UX designers</strong> and <strong>backend engineers</strong>. With strong expertise in <strong>semantic HTML</strong>, <strong>WCAG accessibility standards</strong>, <strong>SEO best practices</strong>, and <strong>CI/CD pipelines</strong>, I am passionate about building <strong>fast</strong>, <strong>scalable</strong>, and <strong>maintainable</strong> frontend architectures for <strong>global platforms</strong>.</p>"
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
