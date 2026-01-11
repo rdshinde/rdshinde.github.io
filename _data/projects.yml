@@ -6,8 +6,16 @@
   role: Founder & Primary Developer
   duration: July, 2022 &mdash; Present
   url: "https://beta-visualdauth.vercel.app"
-  description: <ul><li>The NPM package for your web dev project's decentralised graphical password authentication.</li> <li>Visual-D-Auth is a NPM package that allows you to use your wallet to authenticate your users in your projects.</li><li> It uses the crypto wallet you are using to sign a message and send it to the VisualDAuth contract.</li><li> Tech Stack - ReactJS, Typescript, TailwindCSS, Solidity, Remix, Web3.js .</li><li> Github Link - <a href="https://github.com/rdshinde/Visual-D-Auth.git">https://github.com/rdshinde/Visual-D-Auth.git</a></li></ul>
-
+  description: >
+              <ul>
+              <li>Built a personalized finance planner using psychometric analysis and risk profiling to generate customized investment strategies, supporting 100+ daily active users.</li>
+              <li>Applied mathematical models to align user financial goals with optimized portfolios and automated detailed investment strategy reports.</li>
+              <li>Designed and developed a Next.js application leveraging server-side rendering (SSR) to improve SEO and initial page load performance.</li>
+              <li>Integrated and tested 50+ frontend API interactions using React Context API and custom hooks for scalable state management.</li>
+              <li>Implemented performance optimizations using <code>useMemo</code> and <code>useCallback</code> to minimize unnecessary re-renders.</li>
+              <li>Tech Stack: TypeScript, Next.js, Tailwind CSS, Python, FastAPI, PostgreSQL, Docker.</li>
+              </ul>
+              
 - project: RupeeWorks – Personalized Finance Planner
   role: Founder & Full-Stack Developer
   duration: 2024 — Present
