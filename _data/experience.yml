@@ -3,17 +3,30 @@
 - company: Tata Consultancy Services Ltd.
   position: System Engineer Full-time
   duration: October, 2023 &mdash; Present
-  summary: <ul><li>Serving as a Java Developer in one of the highest income generating financial solutions product of TCS.</li><li> Designed and developed 25+ REST APIs using Java and Spring Boot 3 for banking microservices, ensuring high performance, scalability,
-   and security. Implemented asynchronous communication between microservices using Apache Kafka, improving reliability and message
-   delivery in distributed systems.</li><li>Worked extensively with PostgreSQL for optimized data storage, retrieval, and management, creating efficient queries and ensuring data
-   consistency. Conducted comprehensive unit testing with over 90% code coverage ensuring robust and defect-free applications.</li><ul>
+  summary: >
+        <ul>
+            <li>Designed and developed SEO-optimized, responsive, and accessible user interfaces using React.js, TypeScript, and SCSS for the TCS Bancs Global Banking Portal 2.0, serving over 90 million customer accounts across multiple geographies.</li>
+            <li>Built and refactored reusable React component libraries following atomic design principles, improving UI consistency and maintainability across micro-frontend architectures.</li>
+            <li>Integrated and consumed RESTful APIs across 8+ microservices using Axios and custom React hooks, ensuring secure cross-origin communication and consistent data handling.</li>
+            <li>Optimized application performance through lazy loading, memoization, and code splitting, resulting in a 25% improvement in Lighthouse performance scores and reduced initial load times.</li>
+            <li>Ensured compliance with WCAG 2.1 accessibility guidelines by implementing semantic HTML, structured metadata, and effective meta tagging to enhance SEO visibility and search engine crawlability.</li>
+            <li>Collaborated closely with UX designers and backend engineers to translate Figma designs and API specifications into pixel-perfect, high-performance user interfaces.</li>
+            <li>Contributed to unit and integration testing using Jest and React Testing Library, maintaining high test coverage and ensuring regression-free releases.</li>
+            <li>Supported CI/CD pipeline deployments using Git, Docker, and internal DevOps workflows, enabling smooth and reliable releases across staging and production environments.</li>
+          </ul>
 
 # VP of Global Communications
 - company: Foxmula Private Ltd.
   position: Frontend Web Developer Intern
   duration: May, 2022 &mdash; Jul, 2022
-  summary: <ul><li>Served as a front-end developer to transform 100% of vanilla JS project into ReactJS.</li><li> Improved the page loading time and responsiveness of components across all type of devices by 30%.</li><li> Documented the E2E work of components and context APIs for future versions.</li><li> Integrated the backend with 50+ REST APIs and react hooks.</li><ul>
-
+  summary: >
+          <ul>
+              <li>Modernized a legacy frontend codebase using React.js and TypeScript, leveraging Redux and the Context API for scalable state management.</li>
+              <li>Improved application performance through memoization, lazy loading, and code splitting, achieving approximately 30% faster page load times.</li>
+              <li>Integrated and tested 50+ RESTful APIs using Axios and custom React hooks in close collaboration with backend engineering teams.</li>
+              <li>Achieved over 90% unit and integration test coverage using Jest and React Testing Library, ensuring reliable and regression-free releases.</li>
+              <li>Ensured compliance with WCAG 2.1 accessibility standards and implemented secure frontend practices to mitigate XSS and CSRF vulnerabilities.</li>
+            </ul>
 # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
 #   position: Director of Digital Strategy
